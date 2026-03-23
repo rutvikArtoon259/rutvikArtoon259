@@ -156,7 +156,7 @@
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  🎱 8-ball-pool        Node.js · Socket.IO · Redis    ██ LIVE ✓             │
 │  ♟  chess-backend      Node.js · WebSocket · Redis    ██ LIVE ✓             │
-│  🃏 tabloa-jevi        Node.js · Socket.IO · APIs     ██ LIVE ✓             │
+│  🃏 tambola             Node.js · Socket.IO · APIs     ██ LIVE ✓             │
 │  📡 streamerdap        Node.js · REST · Redis         ██ DEPLOYED ✓         │
 │  🏢 content-agency     Node.js · Microservices        ██ DEPLOYED ✓         │
 │  👗 braganza-col       Node.js · REST API             ▒▒ IN PROGRESS...     │
